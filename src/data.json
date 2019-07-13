@@ -1,0 +1,31 @@
+[{
+    "id" : "1",
+    "name" : "pham trung hieu",
+    "tel" : "231231231",
+    "permission" : 1
+},
+{
+    "id" : "2",
+    "name" : "huynh nhat anh",
+    "tel" : "8868631",
+    "permission" : 2
+},
+{
+    "id" : "3",
+    "name" : "le nhat nam",
+    "tel" : "209111231",
+    "permission" : 2
+},
+{
+    "id" : "4",
+    "name" : "vu van hieu",
+    "tel" : "2312314231231",
+    "permission" : 3
+},
+{
+    "id" : "5",
+    "name" : "le van hoa",
+    "tel" : "98712331231",
+    "permission" : 2
+}
+]
